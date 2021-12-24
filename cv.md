@@ -1,14 +1,14 @@
-#Alexander Yulin#
-###Junior Full-stack developer###
+#Alexander Yulin
+###Junior Full-stack developer
 
-##Work experience##
+##Work experience
 
-##Skills##
+##Skills
 HTML, CSS, JS
 
-##Education##
+##Education
 RS School pre-course
 
-##Contacts##
+##Contacts
 +38095450
 ordinaraviro@gmail.com
