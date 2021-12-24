@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool-cv-task
+https://ordinaraviro.github.io/rsschool-cv/cv
