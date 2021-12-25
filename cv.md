@@ -1,14 +1,26 @@
-#Alexander Yulin#
-###Junior Full-stack developer###
+# Alexander Yulin
 
-##Work experience##
+## Contacts
+email: ordanaraviro@g,ail.com
+telephone: +380954507049
+Github: https://github.com/ordinaraviro
 
-##Skills##
-HTML, CSS, JS
+## Avout Me
+I am a student of RS School Pre-Stage. I want to be a good Full-stack developer.
 
-##Education##
-RS School pre-course
+## Skills
+HTML, CSS, JS, Git
 
-##Contacts##
-+38095450
-ordinaraviro@gmail.com
+## Code example
+function multiply(a, b){
+    return(a * b);
+}
+
+## Work experience
+13.12.2021 - Begin studying at the RS School
+
+## Education
+RS School Pre-stage
+
+## English
+A2
