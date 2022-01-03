@@ -30,6 +30,13 @@ body{
 
 .page-footer{
     border: 1px solid red;
+   
+}
+
+footer .container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
 
 .container {
@@ -78,3 +85,18 @@ main .container {
     /*letter-spacing: 5px;*/
     color: #829985;
   }
+
+.footer-rsschool{
+    width: 100px;
+}
+
+.avatar {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+#name {
+    display: flex;
+    flex-direction: row;
+}
