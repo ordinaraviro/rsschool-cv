@@ -19,7 +19,6 @@ I am a student of RS School Pre-Stage. I want to be a good Full-stack developer.
 function multiply(a, b){
     return(a * b);
 };
-```
 
 ## Work experience
 13.12.2021 - Begin studying at the RS School
